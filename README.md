@@ -64,6 +64,11 @@ Digite o primeiro numero: 20
 Digite o segundo numero: 3
 Resultado: 20 x 3 = 60
 
+4. Soma
+Este programa em C solicita ao usuário dois números inteiros, armazena os valores nas variáveis a e b e realiza a soma entre eles. O resultado é armazenado na variável soma e exibido na tela.
+
+O programa utiliza scanf() para receber os valores digitados e printf() para mostrar o resultado.
+
 ### | Rede Social | 
 
 Link | 
@@ -80,5 +85,5 @@ Link |
 | LinkedIn | https://www.linkedin.com/in/ana-beatriz-oliveira-de-assis-33082542b/   | 
 
 | Safira |
-| GitHub |   | 
-| LinkedIn |   | 
+| GitHub | https://github.com/safira10/soma_c | 
+| LinkedIn | https://github.com/safira10/soma_c  | 

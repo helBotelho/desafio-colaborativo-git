@@ -58,7 +58,7 @@ Em seguida, pedirá o segundo número com a mensagem "Digite o segundo número:"
 
 O sistema calculará a operação utilizando a variável resultado para exibir a saída final.
 
-💡 Exemplo de Execução
+Exemplo de Execução
 
 Digite o primeiro numero: 20
 Digite o segundo numero: 3

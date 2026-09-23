@@ -17,7 +17,20 @@ Digite o segundo numero: 4
 Resultado: 10.00 - 4.00 = 6.00
 
 
+#Divisão
 
+Como Usar
+Compile: gcc calculadora.c -o calculadora
+Execute: ./calculadora
+Escolha uma opção 3
+Digite os dois números
+Veja o resultado
+
+Exemplo:
+Escolha uma opcao: 4
+Digite o primeiro numero: 10
+Digite o segundo numero: 4
+Resultado: 10.00 / 4.00 = 2.50
 
 | Rede Social | 
 

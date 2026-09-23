@@ -1,6 +1,6 @@
 # desafio-colaborativo-git
 
-#Subtração
+### Subtração
 
 Programa em C que subtrai dois números.
 
@@ -17,7 +17,7 @@ Digite o segundo numero: 4
 Resultado: 10.00 - 4.00 = 6.00
 
 
-#Divisão
+### Divisão
 
 Como Usar
 Compile: gcc calculadora.c -o calculadora
@@ -32,7 +32,7 @@ Digite o primeiro numero: 10
 Digite o segundo numero: 4
 Resultado: 10.00 / 4.00 = 2.50
 
-# Multiplicação
+### Multiplicação
 
 Como Usar
 Compile: gcc calculadora.c -o calculadora
@@ -47,7 +47,7 @@ Digite o primeiro numero: 20
 Digite o segundo numero: 3
 Resultado: 20 x 3 = 60
 
-| Rede Social | 
+### | Rede Social | 
 
 Link | |---|---| 
 | Helena Botelho |
@@ -58,9 +58,9 @@ Link | |---|---|
 | GitHub | https://github.com/Teff007 | 
 | LinkedIn | https://www.linkedin.com/in/st%C3%A9ffany-rodrigues-3747b4356/  | 
 
-| Ana Bia |
-| GitHub |   | 
-| LinkedIn |   | 
+| Ana Beatriz Oliveira De Assis |
+| GitHub | https://github.com/ainteligente729-hub  | 
+| LinkedIn | https://www.linkedin.com/in/ana-beatriz-oliveira-de-assis-33082542b/   | 
 
 | Safira |
 | GitHub |   | 

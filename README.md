@@ -49,7 +49,7 @@ Resultado: 20 x 3 = 60
 
 ### | Rede Social | 
 
-Link | |---|---| 
+Link | 
 | Helena Botelho |
 | GitHub | https://github.com/helBotelho | 
 | LinkedIn | www.linkedin.com/in/helena-moraes-740baa260 | 

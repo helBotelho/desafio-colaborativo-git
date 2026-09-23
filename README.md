@@ -1,47 +1,64 @@
-# desafio-colaborativo-git
+Desafio Colaborativo Git - Documentação de Operações
+Projeto de calculadora em linguagem C! Abaixo estão detalhadas as operações implementadas pela equipe.
 
-### Subtração
+1. Subtração
+Programa em C desenvolvido para realizar a operação de subtração entre dois números.
 
-Programa em C que subtrai dois números.
+Como Usar
+Compile o programa:
 
-Como usar
-Compile: gcc calculadora.c -o calculadora
-Execute: ./calculadora
-Escolha a opção 2
-Digite os dois números
-Veja o resultado
-Exemplo
+gcc calculadora.c -o calculadora
+Execute:
+
+./calculadora
+Escolha a opção 2 no menu.
+
+Digite os dois números solicitados e acompanhe o resultado.
+
+Exemplo de Execução
+
 Escolha uma opcao: 2
 Digite o primeiro numero: 10
 Digite o segundo numero: 4
 Resultado: 10.00 - 4.00 = 6.00
 
 
-### Divisão
+2. Divisão
+Módulo responsável por calcular a divisão exata entre dois números reais.
 
 Como Usar
-Compile: gcc calculadora.c -o calculadora
-Execute: ./calculadora
-Escolha uma opção 3
-Digite os dois números
-Veja o resultado
+Compile o programa:
 
-Exemplo:
-Escolha uma opcao: 4
+gcc calculadora.c -o calculadora
+Execute:
+
+./calculadora
+Escolha a opção 3 (ou a opção correspondente) no menu.
+
+Insira os dois números para ver o cálculo.
+
+Exemplo de Execução
+
+Escolha uma opcao: 3
 Digite o primeiro numero: 10
 Digite o segundo numero: 4
 Resultado: 10.00 / 4.00 = 2.50
 
-### Multiplicação
+3. Multiplicação
+Módulo responsável por multiplicar dois valores inteiros informados pelo usuário.
 
 Como Usar
-Compile: gcc calculadora.c -o calculadora
-Execute: ./calculadora
-Escolha a opção 4
+Compile e execute o programa principal.
 
-No início o programa mostrara "Digite o primeiro número:" ai o usuário fornecerá o primeiro número inteiro, logo a pós o programa pedirá o segundo número ao usuário com a mensagem "Digite o segundo número:" depois o usuário ira fornecer o 2° número é o programa irá calcular uma multiplicação utilizando a variável "resultado" para mostrar o resultado da operação.
+Escolha a opção 4 para acessar a multiplicação.
 
-Exemplo:
+O programa exibirá a mensagem "Digite o primeiro número:" para você fornecer o primeiro valor inteiro.
+
+Em seguida, pedirá o segundo número com a mensagem "Digite o segundo número:".
+
+O sistema calculará a operação utilizando a variável resultado para exibir a saída final.
+
+💡 Exemplo de Execução
 
 Digite o primeiro numero: 20
 Digite o segundo numero: 3

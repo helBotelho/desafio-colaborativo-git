@@ -82,6 +82,6 @@ Link |
 | GitHub | https://github.com/ainteligente729-hub  | 
 | LinkedIn | https://www.linkedin.com/in/ana-beatriz-oliveira-de-assis-33082542b/   | 
 
-| Safira |
+| Safira Assução|
 | GitHub | https://github.com/safira10/soma_c | 
 | LinkedIn | https://github.com/safira10/soma_c  | 

@@ -3,10 +3,10 @@
 int main() {
     int num1, num2, resultado;
 
-    printf("Digite o primeiro numero: ");
+    printf("Digite o primeiro numero desejado: ");
     scanf("%d", &num1);
 
-    printf("Digite o segundo numero: ");
+    printf("Digite o segundo numero desejado: ");
     scanf("%d", &num2);
 
     resultado = num1 * num2;
